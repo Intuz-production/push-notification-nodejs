@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-INTUZ brings to you a very useful component to send fcm push-notifications to Android and iOS apllication from your node-js projects. Give it a try by following below example, Happy push notifications.
+INTUZ brings to you a very useful component to send fcm push-notifications to Android and iOS application from your node-js projects. Give it a try by following below example, Happy push notifications.
 
 <br>
 <h1>Features</h1>
