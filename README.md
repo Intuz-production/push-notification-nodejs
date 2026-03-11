@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [custom software development](https://www.intuz.com/software-development)
+and [AI development services](https://www.intuz.com/ai-development).
+<br><br>
 INTUZ brings to you a very useful component to send FCM push-notifications to Android and iOS application from your node-js projects. Give it a try by following below example, Happy push notifications.
 
 <br>
